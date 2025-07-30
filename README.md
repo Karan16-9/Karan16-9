@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I’m currently learning
-Front - end development,
+Frontend development,
 Backend development!
 
