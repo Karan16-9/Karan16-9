@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I’m currently learning
 Frontend development,
-Backend development
+Backend development.
 
